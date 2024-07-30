@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'my-dev-book'
+theme = 'hugo-theme-relearn'
